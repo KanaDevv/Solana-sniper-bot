@@ -8,14 +8,14 @@
 ---
 
 <p align="center">
-    <img src="https://img.shields.io/github/stars/0xtaodev/jupiter-python-cli">
-    <img src="https://img.shields.io/github/forks/0xtaodev/jupiter-python-cli">
+    <img src="https://img.shields.io/github/stars/KanaDevv/Solana-sniper-bot">
+    <img src="https://img.shields.io/github/forks/KanaDevv/Solana-sniper-bot">
     <br>
-    <img src="https://img.shields.io/github/issues/0xtaodev/jupiter-python-cli">
-    <img src="https://img.shields.io/github/issues-closed/0xtaodev/jupiter-python-cli">
+    <img src="https://img.shields.io/github/issues/KanaDevv/Solana-sniper-bot">
+    <img src="https://img.shields.io/github/issues-closed/KanaDevv/Solana-sniper-bot">
     <br>
-    <img src="https://img.shields.io/github/languages/top/0xtaodev/jupiter-python-cli">
-    <img src="https://img.shields.io/github/last-commit/0xtaodev/jupiter-python-cli">
+    <img src="https://img.shields.io/github/languages/top/KanaDevv/Solana-sniper-bot">
+    <img src="https://img.shields.io/github/last-commit/KanaDevv/Solana-sniper-bot">
     <br>
 </p>
 
